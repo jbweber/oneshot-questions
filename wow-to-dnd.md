@@ -322,6 +322,84 @@ These classes don't really exist in WoW, but they're awesome D&D options!
 
 ---
 
+## Party Roles in D&D (Beyond Tank/Healer/DPS)
+
+Unlike WoW's rigid trinity, D&D has broader party roles that don't always match class 1:1. Here are the common roles:
+
+### **The Face** — *Social Interaction Leader*
+**What they do:** Lead conversations, persuade NPCs, negotiate, deceive, intimidate
+**Key stat:** Charisma (CHA)
+**Common classes:**
+- **Bard** (Any subclass) - Natural face with expertise in social skills
+- **Paladin** - Charismatic holy warrior, good for diplomacy and intimidation
+- **Warlock** - CHA-based caster, great for deception or persuasion
+- **Sorcerer** - Natural charm, especially Draconic or Divine Soul
+- **Rogue (Swashbuckler or Mastermind)** - DEX-based but often CHA secondary, smooth talker
+
+### **The Scout/Infiltrator** — *Stealth and Perception*
+**What they do:** Sneak ahead, spot traps, gather intel, avoid encounters
+**Key stats:** Dexterity (DEX), Wisdom (WIS) for Perception
+**Common classes:**
+- **Rogue** (Any subclass) - Expertise in Stealth, Perception, Investigation
+- **Ranger** - Natural explorer with stealth and tracking
+- **Monk** - Fast, stealthy, unarmored infiltrator
+- **Druid (Moon)** - Wild Shape into small animals for scouting
+
+### **The Skill Monkey** — *Utility Expert*
+**What they do:** Pick locks, disarm traps, solve puzzles, handle non-combat challenges
+**Key stats:** Dexterity, Intelligence, or Wisdom depending on specialty
+**Common classes:**
+- **Rogue** (Especially Thief or Arcane Trickster) - Expertise in Thieves' Tools, Sleight of Hand
+- **Bard** (Any) - Jack of all trades, expertise in many skills
+- **Artificer** - Magical tools, great with Investigation and Arcana
+- **Ranger** - Survival expert for wilderness challenges
+
+### **The Controller** — *Battlefield Control*
+**What they do:** Debuff enemies, lock down areas, reshape terrain
+**Key stats:** Intelligence or Wisdom for spell DC
+**Common classes:**
+- **Wizard** (Especially Evocation, Conjuration, or Enchantment) - AOE and crowd control
+- **Druid** - Entangle, spike growth, wall spells
+- **Bard** - Enchantment and debuff spells
+- **Cleric (Tempest, War, or Light)** - Zoning with Spirit Guardians
+
+### **The Tank/Defender** — *Protector*
+**What they do:** Absorb damage, protect allies, control enemy positioning
+**Key stats:** Constitution, Strength or Dexterity
+**Common classes:**
+- **Paladin** - Heavy armor, healing, auras that protect nearby allies
+- **Fighter (Cavalier)** - Locks down enemies, reaction attacks to protect allies
+- **Barbarian** - Damage resistance while raging, massive HP pool
+- **Moon Druid** - Wild Shape into high-HP beasts
+
+### **The Blaster** — *Damage Dealer*
+**What they do:** Deal heavy damage, often AOE
+**Key stats:** Varies by class
+**Common classes:**
+- **Wizard (Evocation)** - Fireball, lightning bolt, sculpt AOE
+- **Warlock** - Eldritch blast spam with invocations
+- **Sorcerer** - Metamagic for twinned/quickened damage
+- **Fighter/Barbarian/Paladin** - Martial damage dealers
+
+### **The Healer/Support** — *Keep Party Alive*
+**What they do:** Healing, buffs, condition removal
+**Key stats:** Wisdom or Charisma for spell DC
+**Common classes:**
+- **Cleric (Life, Grave, Order)** - Best raw healing
+- **Druid** - Healing Word, support spells, versatility
+- **Bard** - Healing plus inspiration dice for buffs
+- **Paladin** - Lay on Hands plus healing spells
+
+### **Important Notes:**
+- **Many classes fill multiple roles!** For example:
+  - Rogues are scouts, skill monkeys, AND often the face (if CHA-based Swashbuckler/Mastermind)
+  - Bards are faces, skill monkeys, support, AND can be damage dealers
+  - Paladins are tanks, healers, AND faces
+- **Ability scores matter as much as class** — A DEX-based Fighter with high INT could be a trap expert, while a WIS Rogue might be the party's perceptive scout
+- **Expertise is powerful** — Rogues and Bards get Expertise (double proficiency) which makes them excellent at their chosen niches
+
+---
+
 ## Quick Tips for WoW Players
 
 - **No Auto-attacks:** In D&D, you choose your action each turn. There's no standing still auto-attacking!
@@ -330,6 +408,7 @@ These classes don't really exist in WoW, but they're awesome D&D options!
 - **Hit Dice:** Like eating food in WoW, but you roll dice during short rests to heal
 - **Advantage/Disadvantage:** Like crit chance - roll two d20s and take the higher/lower
 - **Action Economy:** You typically get one action, one bonus action, and movement per turn
+- **Party composition is flexible:** Unlike WoW raids requiring specific roles, D&D groups can succeed with creative combinations
 
 ---
 
