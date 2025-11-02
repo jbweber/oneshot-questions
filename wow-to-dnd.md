@@ -345,7 +345,7 @@ Unlike WoW's rigid trinity, D&D has broader party roles that don't always match 
 - **Monk** - Fast, stealthy, unarmored infiltrator
 - **Druid (Moon)** - Wild Shape into small animals for scouting
 
-### **The Skill Monkey** — *Utility Expert*
+### **The Utility Expert** — *Problem Solver*
 **What they do:** Pick locks, disarm traps, solve puzzles, handle non-combat challenges
 **Key stats:** Dexterity, Intelligence, or Wisdom depending on specialty
 **Common classes:**
@@ -392,8 +392,8 @@ Unlike WoW's rigid trinity, D&D has broader party roles that don't always match 
 
 ### **Important Notes:**
 - **Many classes fill multiple roles!** For example:
-  - Rogues are scouts, skill monkeys, AND often the face (if CHA-based Swashbuckler/Mastermind)
-  - Bards are faces, skill monkeys, support, AND can be damage dealers
+  - Rogues are scouts, utility experts, AND often the face (if CHA-based Swashbuckler/Mastermind)
+  - Bards are faces, utility experts, support, AND can be damage dealers
   - Paladins are tanks, healers, AND faces
 - **Ability scores matter as much as class** — A DEX-based Fighter with high INT could be a trap expert, while a WIS Rogue might be the party's perceptive scout
 - **Expertise is powerful** — Rogues and Bards get Expertise (double proficiency) which makes them excellent at their chosen niches
