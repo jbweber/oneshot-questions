@@ -85,6 +85,7 @@ Think of it like: **The pub regulars who accidentally became heroes.**
 - [ ] Gnome (small, clever, inventive)
 - [ ] Night Elf (graceful, nature-focused, mysterious)
 - [ ] Halfling (small, lucky, cheerful)
+- [ ] High Elf / Blood Elf (arcane focused, nobel, smart)
 
 **7. Your character is:**
 
